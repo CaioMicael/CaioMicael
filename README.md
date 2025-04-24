@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Caio Micael Krieger
 
-Sou desenvolvedor com experiência em back-end e full-stack, apaixonado por criar soluções robustas e escaláveis. Tenho trabalhado com diversas tecnologias modernas para entregar projetos de alta qualidade.
+Sou desenvolvedor com experiência em back-end, apaixonado por criar soluções robustas e escaláveis. Tenho trabalhado com diversas tecnologias modernas para entregar projetos de alta qualidade.
 
 ## 🚀 Tecnologias Principais
 
