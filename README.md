@@ -12,16 +12,19 @@ Sou desenvolvedor com experiência em back-end e full-stack, apaixonado por cria
 
 ## 📈 Atividade em 2025
 
-Em 2025, mantive uma contribuição consistente em meus repositórios, com destaque para os seguintes projetos:
+- Total de commits em 2025: **275**
+
+Mantenho uma contribuição consistente em meus repositórios, com foco na evolução contínua e boas práticas de desenvolvimento.
 
 ## 🧩 Projetos em Destaque
 
 ### 🔹 [randomUserGenerator](https://github.com/CaioMicael/randomUserGenerator)
 
-Um sistema em PHP 8.2 com PostgreSQL que consome uma API para gerar usuários aleatórios. Inclui CRUDs para entidades como Estado, Cidade e País.
+Um sistema em PHP 8.2 com PostgreSQL que consome uma API para gerar usuários aleatórios. Inclui CRUDs para entidades como Estado, Cidade e País e uma lib em PHP e JavaScript própria, criada a mão por mim mesmo.
 
 **Recursos:**
 
+- Biblioteca JS e PHP própria
 - Arquitetura MVC
 - Integração com PostgreSQL
 - Interface para gerenciamento de dados
