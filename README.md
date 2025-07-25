@@ -12,7 +12,7 @@ Sou desenvolvedor com experiência em back-end, apaixonado por criar soluções 
 
 ## 📈 Atividade em 2025
 
-- Total de commits em 2025: **412**
+- Total de commits em 2025: **445**
 
 Mantenho uma contribuição consistente em meus repositórios, com foco na evolução contínua e boas práticas de desenvolvimento.
 
