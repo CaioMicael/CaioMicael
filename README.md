@@ -12,7 +12,7 @@ Sou desenvolvedor com experiência em back-end, apaixonado por criar soluções 
 
 ## 📈 Atividade em 2025
 
-- Total de commits em 2025: **445**
+- Total de commits em 2025: **509**
 
 Mantenho uma contribuição consistente em meus repositórios, com foco na evolução contínua e boas práticas de desenvolvimento.
 
@@ -31,12 +31,15 @@ Um sistema em PHP 8.2 com PostgreSQL que consome uma API para gerar usuários al
 
 ### 🔹 [suaconsulta](https://github.com/CaioMicael/suaconsulta)
 
-Aplicativo desenvolvido com .NET e TypeScript para gerenciamento de consultas médicas. Possui uma API robusta e uma interface web responsiva.
+Aplicativo desenvolvido com .NET, ASP NET Core e ReactJs com TypeScript para gerenciamento de consultas médicas. Possui uma API robusta e uma interface web responsiva.
 
 **Tecnologias:**
 
-- Backend em C#
+- Backend em Asp Net Core
 - Frontend em TypeScript
+- Utilização de Domain-Driven Design como modelo de design do projeto back-end
+- Utilização de Service e Repository pattern
+- Utilização de Domain Error Pattern
 - Utilização de Docker para containerização
 
 ## 🌐 Contato
