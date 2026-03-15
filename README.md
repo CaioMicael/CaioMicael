@@ -2,7 +2,7 @@
 
 Sou Backend Developer especializado em C# e .NET, com foco na construção de APIs REST de alta performance, microserviços e sistemas distribuídos.
 
-Tenho experiência no desenvolvimento de sistemas com grande volume de dados, otimização de banco de dados e integração entre plataformas. No meu trabalho profissional, já desenvolvi soluções que reduziram rotinas críticas de processamento de 12 horas para 2 horas ao processar centenas de milhares de registros.
+Tenho experiência no desenvolvimento de sistemas com grande volume de dados, otimização de banco de dados e integração entre plataformas.
 
 Tenho grande interesse em engenharia de backend, sistemas distribuídos e arquiteturas escaláveis.
 
