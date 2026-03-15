@@ -7,25 +7,41 @@ Tenho experiência no desenvolvimento de sistemas com grande volume de dados, ot
 Tenho grande interesse em engenharia de backend, sistemas distribuídos e arquiteturas escaláveis.
 
 🚀 Tecnologias Principais
-Backend:
-  C#
-  .NET / ASP.NET Core
-  REST APIs
-  Microservices
-  Bancos de Dados
-  PostgreSQL
-  SQL Server
-  MongoDB
-  Query Optimization / Performance Tuning
-  Sistemas Distribuídos
-  RabbitMQ
-  Processamento Assíncrono
-  Paralelismo e Controle de Concorrência
+Backend
+
+C#
+
+.NET / ASP.NET Core
+
+REST APIs
+
+Microservices
+
+Bancos de Dados
+
+PostgreSQL
+
+SQL Server
+
+MongoDB
+
+Query Optimization / Performance Tuning
+
+Sistemas Distribuídos
+
+RabbitMQ
+
+Processamento Assíncrono
+
+Paralelismo e Controle de Concorrência
 
 Dev & Tools
-  Docker
-  Git
-  CI/CD
+
+Docker
+
+Git
+
+CI/CD
 
 📈 Atividade em 2025
 
