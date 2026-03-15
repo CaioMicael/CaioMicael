@@ -1,50 +1,82 @@
-# 👋 Olá, eu sou o Caio Micael Krieger
+👋 Olá, eu sou o Caio Micael Krieger
 
-Sou desenvolvedor com experiência em back-end, apaixonado por criar soluções robustas e escaláveis. Tenho trabalhado com diversas tecnologias modernas para entregar projetos de alta qualidade.
+Sou Backend Developer especializado em C# e .NET, com foco na construção de APIs REST de alta performance, microserviços e sistemas distribuídos.
 
-## 🚀 Tecnologias Principais
+Tenho experiência no desenvolvimento de sistemas com grande volume de dados, otimização de banco de dados e integração entre plataformas. No meu trabalho profissional, já desenvolvi soluções que reduziram rotinas críticas de processamento de 12 horas para 2 horas ao processar centenas de milhares de registros.
 
-- **.NET / ASP.NET**
-- **PHP**
-- **JavaScript / TypeScript**
-- **SQL**
-- **C#**
+Tenho grande interesse em engenharia de backend, sistemas distribuídos e arquiteturas escaláveis.
 
-## 📈 Atividade em 2025
+🚀 Tecnologias Principais
+Backend:
+  C#
+  .NET / ASP.NET Core
+  REST APIs
+  Microservices
+  Bancos de Dados
+  PostgreSQL
+  SQL Server
+  MongoDB
+  Query Optimization / Performance Tuning
+  Sistemas Distribuídos
+  RabbitMQ
+  Processamento Assíncrono
+  Paralelismo e Controle de Concorrência
 
-- Total de commits em 2025: **568**
+Dev & Tools
+  Docker
+  Git
+  CI/CD
 
-Mantenho uma contribuição consistente em meus repositórios, com foco na evolução contínua e boas práticas de desenvolvimento.
+📈 Atividade em 2025
 
-## 🧩 Projetos em Destaque
+Total de commits em 2025: 600
 
-### 🔹 [randomUserGenerator](https://github.com/CaioMicael/randomUserGenerator)
+Busco manter uma contribuição consistente em projetos pessoais e profissionais, explorando principalmente backend engineering, performance e sistemas distribuídos.
 
-Um sistema em PHP 8.2 com PostgreSQL que consome uma API para gerar usuários aleatórios. Inclui CRUDs para entidades como Estado, Cidade e País e uma lib em PHP e JavaScript própria, criada a mão por mim mesmo.
+🧩 Projetos em Destaque
+🔹 LogAnalyzer
 
-**Recursos:**
+Plataforma de análise de logs e detecção de anomalias desenvolvida em .NET, com arquitetura orientada a microserviços e processamento assíncrono.
 
-- Biblioteca JS e PHP própria
-- Arquitetura MVC
-- Integração com PostgreSQL
-- Interface para gerenciamento de dados
+O objetivo do projeto é analisar grandes volumes de logs de aplicações, identificar padrões e detectar comportamentos anômalos utilizando técnicas de Machine Learning com ML.NET.
 
-### 🔹 [suaconsulta](https://github.com/CaioMicael/suaconsulta)
+Principais conceitos explorados:
 
-Aplicativo desenvolvido com .NET, ASP NET Core e ReactJs com TypeScript para gerenciamento de consultas médicas. Possui uma API robusta e uma interface web responsiva.
+Processamento assíncrono com mensageria
 
-**Tecnologias:**
+Análise de grandes volumes de logs
 
-- Backend em Asp Net Core
-- Frontend em TypeScript
-- Utilização de Domain-Driven Design como modelo de design do projeto back-end
-- Utilização de Service e Repository pattern
-- Utilização de Domain Error Pattern
-- Utilização de Docker para containerização
+Detecção de anomalias com Machine Learning
 
-## 🌐 Contato
+Arquitetura de microserviços
 
-- [LinkedIn](https://www.linkedin.com/in/caio-micael-krieger-75b72020a/)
+Pipeline de processamento de dados
 
----
+Este projeto foi criado para explorar engenharia de sistemas distribuídos e observabilidade de aplicações.
 
+🔹 SuaConsulta
+
+Aplicação web para gerenciamento de consultas médicas, construída com arquitetura moderna baseada em Domain-Driven Design.
+
+O sistema possui backend robusto em .NET e frontend em React, com foco em organização de domínio, separação de responsabilidades e boas práticas de engenharia de software.
+
+Tecnologias e conceitos utilizados:
+
+Backend em ASP.NET Core
+
+Frontend em React + TypeScript
+
+Domain-Driven Design (DDD)
+
+Service Pattern e Repository Pattern
+
+Domain Error Pattern
+
+Docker para containerização
+
+APIs REST
+
+🌐 Contato
+
+🔗 LinkedIn
+https://www.linkedin.com/in/caio-micael-krieger-75b72020a/
